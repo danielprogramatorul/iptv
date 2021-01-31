@@ -1,0 +1,54 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",1 Mus.com
+http://raostvip.com:8080/semi16/1609.sem/114154?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",ANTENA 1
+http://185.71.64.167:80/307245103371/307245103371/82321?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Actualitatea TV
+http://raostvip.com:8080/semi16/1609.sem/114157?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Acasa TV
+http://zn.myseries.xyz:8080/suayip/suayip1234/65346?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Antena 3 FHD
+http://raostvip.com:8080/semi16/1609.sem/114165?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/VQqgkzw.jpg" group-title="Undefined",B1
+https://stream.adunity.com/b1/b1.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DIGI 24
+http://a1.gokakka.club:8880/testzyx030/123456789/31828?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DIGI 24 FHD
+http://raostvip.com:8080/semi16/1609.sem/114216?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Digi 24
+http://red.ipfox.org:8080/Karim2_534341/40036069/30952?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",ETNO
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82280?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",FAVORIT TV
+http://185.71.64.167:80/307245103371/307245103371/82301?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",HBO 1 HD
+http://raostvip.com:8080/semi16/1609.sem/114291?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Hora TV
+http://raostvip.com:8080/semi16/1609.sem/114302?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",KISS TV
+http://red.ipfox.org:8080/Karim2_534341/40036069/30958?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",MTV
+http://raostvip.com:8080/semi16/1609.sem/114328?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",National TV
+http://raostvip.com:8080/semi16/1609.sem/114353?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",PRO TV
+http://rv.therevenge.co:80/live/242424/242424/82314.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",ROMANIA TV
+http://rv.therevenge.co:80/live/242424/242424/82322.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Realitatea Plus HD
+http://raostvip.com:8080/semi16/1609.sem/114387?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",SPERANTA TV
+http://rv.therevenge.co:80/live/242424/242424/82269.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TRINITAS TV
+http://raostvip.com:8080/semi16/1609.sem/114423?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR 1
+http://rv.therevenge.co:80/live/242424/242424/82326.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR 2
+http://red.ipfox.org:8080/Karim2_534341/40036069/30968?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR 3 HD
+http://raostvip.com:8080/semi16/1609.sem/114433?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Taraf TV HD
+http://raostvip.com:8080/semi16/1609.sem/114401?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",ZU TV
+http://rv.therevenge.co:80/live/242424/242424/82273.m3u8?checkedby:hlscat.com
